@@ -1,0 +1,37 @@
+_repo: Valikoima-Sigurdin-juttuja_74997
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Laine, Juho
+    alias: Laine, Johannes
+    birthdate: 1856
+    deathdate: 1937
+    gutenberg_agent_id: '56670'
+    url: http://www.gutenberg.org/2009/agents/56670
+    wikipedia: https://fi.wikipedia.org/wiki/Juho_Laine
+creator:
+  author:
+    agent_name: Ibsen, Sigurd
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '25986'
+    url: http://www.gutenberg.org/2009/agents/25986
+    wikipedia: https://en.wikipedia.org/wiki/Sigurd_Ibsen
+description: ''
+gutenberg_issued: '2024-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74997'
+language: fi
+pgterms:marc905: 20241002121731sigurd
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPori :$bGust. Ronelius, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Valikoima Sigurdin juttuja
+url: http://www.gutenberg.org/ebooks/74997
