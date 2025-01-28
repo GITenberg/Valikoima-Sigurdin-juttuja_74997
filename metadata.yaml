@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '56670'
     url: http://www.gutenberg.org/2009/agents/56670
     wikipedia: https://fi.wikipedia.org/wiki/Juho_Laine
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ibsen, Sigurd
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25986
     wikipedia: https://en.wikipedia.org/wiki/Sigurd_Ibsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74997#Valikoima-Sigurdin-juttuja
 gutenberg_issued: '2024-12-30'
 gutenberg_type: Text
 identifiers:
